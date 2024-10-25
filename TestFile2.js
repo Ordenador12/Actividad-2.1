@@ -1,2 +1,0 @@
-//Más cosas
-Nuevas cosas
